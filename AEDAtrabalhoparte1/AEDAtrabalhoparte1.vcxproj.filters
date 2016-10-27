@@ -18,43 +18,43 @@
     <ClCompile Include="main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Pessoa.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="Professor.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="Utente.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="ModoUsoPiscina.cpp">
-      <Filter>Source Files</Filter>
+    <ClCompile Include="ModoAula.cpp">
+      <Filter>Resource Files</Filter>
     </ClCompile>
     <ClCompile Include="ModoLivre.cpp">
-      <Filter>Source Files</Filter>
+      <Filter>Resource Files</Filter>
     </ClCompile>
-    <ClCompile Include="ModoAula.cpp">
-      <Filter>Source Files</Filter>
+    <ClCompile Include="ModoUsoPiscina.cpp">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Pessoa.cpp">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Professor.cpp">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Utente.cpp">
+      <Filter>Resource Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Pessoa.h">
-      <Filter>Resource Files</Filter>
-    </ClInclude>
-    <ClInclude Include="Professor.h">
-      <Filter>Resource Files</Filter>
-    </ClInclude>
     <ClInclude Include="Utente.h">
-      <Filter>Resource Files</Filter>
-    </ClInclude>
-    <ClInclude Include="ModoUsoPiscina.h">
-      <Filter>Resource Files</Filter>
+      <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="ModoAula.h">
-      <Filter>Resource Files</Filter>
+      <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="ModoLIvre.h">
-      <Filter>Resource Files</Filter>
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ModoUsoPiscina.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Pessoa.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Professor.h">
+      <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>

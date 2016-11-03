@@ -1,29 +1,17 @@
 #pragma once
 
-
-
 using namespace std;
 
-class Pessoa
-{
-private:
+#include "utils.h"
 
-
-
-
+class Pessoa{
+	string nome;
+	vector<Data> horario;
 public:
-
-
-	//Constructors
-
 	Pessoa();
+	Pessoa(string nome);
 
-	//Sets
+	string getNome() const;
 
-
-
-	//Gets
-
-
-
+	void setNome(string nome);
 };

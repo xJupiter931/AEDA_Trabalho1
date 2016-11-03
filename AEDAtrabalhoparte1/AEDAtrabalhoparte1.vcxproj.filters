@@ -36,6 +36,12 @@
     <ClCompile Include="Utente.cpp">
       <Filter>Resource Files</Filter>
     </ClCompile>
+    <ClCompile Include="Data.cpp">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Trabalho 1 projeto\src\utils.cpp">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Utente.h">
@@ -54,6 +60,12 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="Professor.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Data.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Trabalho 1 projeto\src\utils.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

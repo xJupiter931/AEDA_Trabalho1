@@ -1,0 +1,16 @@
+﻿  ModoAula.cpp
+d:\trabalhos feup\aeda\trabalho 1\aedatrabalhoparte1\modoaula.cpp(19): error C2276: '!': illegal operation on bound member function expression
+d:\trabalhos feup\aeda\trabalho 1\aedatrabalhoparte1\modoaula.cpp(21): error C2065: 'dia': undeclared identifier
+d:\trabalhos feup\aeda\trabalho 1\aedatrabalhoparte1\modoaula.cpp(24): error C2065: 'mes': undeclared identifier
+d:\trabalhos feup\aeda\trabalho 1\aedatrabalhoparte1\modoaula.cpp(24): error C2143: syntax error: missing ';' before '}'
+  Data.cpp
+d:\trabalhos feup\aeda\trabalho 1\aedatrabalhoparte1\data.cpp(95): error C2248: 'Data::dia': cannot access private member declared in class 'Data'
+  d:\trabalhos feup\aeda\trabalho 1\aedatrabalhoparte1\data.h(9): note: see declaration of 'Data::dia'
+  d:\trabalhos feup\aeda\trabalho 1\aedatrabalhoparte1\data.h(7): note: see declaration of 'Data'
+d:\trabalhos feup\aeda\trabalho 1\aedatrabalhoparte1\data.cpp(95): error C2248: 'Data::mes': cannot access private member declared in class 'Data'
+  d:\trabalhos feup\aeda\trabalho 1\aedatrabalhoparte1\data.h(10): note: see declaration of 'Data::mes'
+  d:\trabalhos feup\aeda\trabalho 1\aedatrabalhoparte1\data.h(7): note: see declaration of 'Data'
+d:\trabalhos feup\aeda\trabalho 1\aedatrabalhoparte1\data.cpp(95): error C2248: 'Data::ano': cannot access private member declared in class 'Data'
+  d:\trabalhos feup\aeda\trabalho 1\aedatrabalhoparte1\data.h(11): note: see declaration of 'Data::ano'
+  d:\trabalhos feup\aeda\trabalho 1\aedatrabalhoparte1\data.h(7): note: see declaration of 'Data'
+  Generating Code...

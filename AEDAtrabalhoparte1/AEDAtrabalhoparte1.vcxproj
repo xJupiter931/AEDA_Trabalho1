@@ -146,6 +146,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="..\..\Trabalho 1 projeto\src\utils.cpp" />
+    <ClCompile Include="Data.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="ModoAula.cpp" />
     <ClCompile Include="ModoLivre.cpp" />
@@ -155,6 +157,8 @@
     <ClCompile Include="Utente.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="..\..\Trabalho 1 projeto\src\utils.h" />
+    <ClInclude Include="Data.h" />
     <ClInclude Include="ModoAula.h" />
     <ClInclude Include="ModoLIvre.h" />
     <ClInclude Include="ModoUsoPiscina.h" />

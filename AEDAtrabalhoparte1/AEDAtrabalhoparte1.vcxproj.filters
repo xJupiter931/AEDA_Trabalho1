@@ -24,9 +24,6 @@
     <ClCompile Include="ModoLivre.cpp">
       <Filter>Resource Files</Filter>
     </ClCompile>
-    <ClCompile Include="ModoUsoPiscina.cpp">
-      <Filter>Resource Files</Filter>
-    </ClCompile>
     <ClCompile Include="Pessoa.cpp">
       <Filter>Resource Files</Filter>
     </ClCompile>
@@ -42,6 +39,9 @@
     <ClCompile Include="..\..\Trabalho 1 projeto\src\utils.cpp">
       <Filter>Resource Files</Filter>
     </ClCompile>
+    <ClCompile Include="Interface.cpp">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Utente.h">
@@ -51,9 +51,6 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="ModoLIvre.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="ModoUsoPiscina.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="Pessoa.h">
@@ -66,6 +63,9 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="..\..\Trabalho 1 projeto\src\utils.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Interface.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

@@ -148,10 +148,10 @@
   <ItemGroup>
     <ClCompile Include="..\..\Trabalho 1 projeto\src\utils.cpp" />
     <ClCompile Include="Data.cpp" />
+    <ClCompile Include="Interface.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="ModoAula.cpp" />
     <ClCompile Include="ModoLivre.cpp" />
-    <ClCompile Include="ModoUsoPiscina.cpp" />
     <ClCompile Include="Pessoa.cpp" />
     <ClCompile Include="Professor.cpp" />
     <ClCompile Include="Utente.cpp" />
@@ -159,9 +159,9 @@
   <ItemGroup>
     <ClInclude Include="..\..\Trabalho 1 projeto\src\utils.h" />
     <ClInclude Include="Data.h" />
+    <ClInclude Include="Interface.h" />
     <ClInclude Include="ModoAula.h" />
     <ClInclude Include="ModoLIvre.h" />
-    <ClInclude Include="ModoUsoPiscina.h" />
     <ClInclude Include="Pessoa.h" />
     <ClInclude Include="Professor.h" />
     <ClInclude Include="Utente.h" />
